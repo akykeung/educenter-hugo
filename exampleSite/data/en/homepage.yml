@@ -14,8 +14,8 @@ slider:
       label: Apply now
       link: contact
   - title: Connect with us!
-    content: DESS is now live on Facebook, Instagram, Linkedin. Join the growing community
-      of student involvements and get updates on events.
+    content: "DESS is now live on Facebook, Instagram and Linkedin. \n\nJoin the growing
+      community of student involvements and get updates on events. Don't miss out!"
     animation_in: left
     animation_out: right
     button:
