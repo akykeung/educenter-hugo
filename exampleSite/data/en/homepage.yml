@@ -20,7 +20,7 @@ slider:
     animation_out: right
     button:
       enable: true
-      label: Apply now
+      label: Contact
       link: contact
   - title: Have any questions?
     content: Feel free to reach out on our social media platforms or email us at uofcdess@gmail.com
