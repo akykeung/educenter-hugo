@@ -11,7 +11,7 @@ slider:
     animation_out: right
     button:
       enable: true
-      label: Apply now
+      label: Become a member
       link: contact
   - title: Connect with us!
     content: "DESS is now live on Facebook, Instagram and Linkedin. \n\nJoin the growing
