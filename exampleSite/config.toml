@@ -75,20 +75,20 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "9567 Turner Trace Apt. BC C3G8A4"
+address = "2500 University Dr NW, Calgary, AB T2N 1N4"
 author = "Themefisher"
 contact_form_action = "#"
 description = "This is meta description"
-email = "info@educenter.com"
+email = "uofcdess@gmail.com"
 google_analitycs_id = ""
 logo = "images/logo.png"
-mobile = "+211234565523"
+mobile = ""
 top_header = true
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "51.0776"
+map_longitude = "14.1407"
 map_marker = "images/marker.png"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
@@ -124,17 +124,9 @@ icon = "ti-facebook"
 link = "#"
 title = "facebook"
 [[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-title = "twitter"
-[[params.social]]
 icon = "ti-instagram"
 link = "#"
 title = "instagram"
-[[params.social]]
-icon = "ti-github"
-link = "#"
-title = "github"
 [[params.social]]
 icon = "ti-linkedin"
 link = "#"
