@@ -22,10 +22,9 @@ slider:
       enable: true
       label: Apply now
       link: contact
-  - title: Your bright future is our mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
+  - title: Have any questions?
+    content: Feel free to reach out on our social media platforms or email us at uofcdess@gmail.com
+      about any inquiries you might have.
     animation_in: left
     animation_out: right
     button:
