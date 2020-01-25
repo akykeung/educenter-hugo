@@ -13,8 +13,7 @@ slider:
       label: Become a member
       link: contact
   - title: Connect with us!
-    content: DESS is now live on Facebook, Instagram and Linkedin. Join the growing
-      community of student involvements and get updates on events. Don't miss out!
+    content: HealthPronto is now live on Facebook, Instagram and Linkedin.
     animation_in: left
     animation_out: right
     button:
