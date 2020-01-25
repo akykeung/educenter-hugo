@@ -1,4 +1,4 @@
-baseURL = "https://dessucalgary.com"
+baseURL = "https://dessucalgary.netlify.com"
 disableLanguages = []
 disqusShortname = "educenter"
 paginate = "6"
