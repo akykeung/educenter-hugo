@@ -3,10 +3,10 @@ slider:
   enable: true
   bg_image: images/Entrance_to_innovate_Calgary.png
   slider_item:
-  - title: Your bright future is our mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
+  - title: A minor unlike no other
+    content: DESS aims to enhance the undergraduate experience and provide professional
+      development for students enrolled in the Digital Minor through various academic,
+      social activities and initiatives.
     animation_in: left
     animation_out: right
     button:
