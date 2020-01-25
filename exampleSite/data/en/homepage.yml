@@ -35,7 +35,7 @@ slider:
       link: contact
 banner_feature:
   enable: true
-  image: images/Entrance_to_innovate_Calgary.png
+  image: images/banner/banner-feature.png
   feature_item:
   - name: Scholorship News
     icon: ti-book
