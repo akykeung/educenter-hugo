@@ -81,7 +81,7 @@ contact_form_action = "#"
 description = "This is meta description"
 email = "uofcdess@gmail.com"
 google_analitycs_id = ""
-logo = "images/Logo.jpg"
+logo = "images/Logo_small.jpg"
 mobile = ""
 top_header = true
 [params.map]
