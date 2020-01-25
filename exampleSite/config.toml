@@ -87,12 +87,12 @@ weight = 1
 [params]
 address = "2500 University Dr NW, Calgary, AB T2N 1N4"
 author = "Themefisher"
-contact_form_action = "#403-123-4567"
+contact_form_action = "#"
 description = "This is meta description"
 email = "healthpronto@gmail.com"
 google_analitycs_id = ""
 logo = "images/HealthPronto.png"
-mobile = ""
+mobile = "403-123-4567"
 top_header = true
 [params.map]
 enable = true
