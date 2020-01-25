@@ -91,7 +91,7 @@ contact_form_action = "#"
 description = "This is meta description"
 email = "uofcdess@gmail.com"
 google_analitycs_id = ""
-logo = "images/favicon.png"
+logo = "images/HealthPronto.png"
 mobile = ""
 top_header = true
 [params.map]
